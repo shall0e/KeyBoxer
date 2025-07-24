@@ -20,7 +20,4 @@ Due to KeyboxHub's ratelimiting, you can only make about 3 requests every 15 min
 They have stated in r/Magisk that they started out with 300x on release, and then another 500 later.
 For 1 person to scrape ALL of the data and collect the entire server of ALL of its keyboxes, it would take around 70 hours.
 
-Do not support services with VIP access to what should be open to all. Also most of the "strong" keyboxes the service gives out
-are Basic and Device level, not strong.
-
 So, if you want 800 of your own free, and most important, PERSONAL keyboxes for your android device. KeyBoxer is right for you.
