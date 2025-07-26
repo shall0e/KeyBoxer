@@ -16,8 +16,13 @@ irm "kybx.pages.dev" | iex
 in a Powershell window.
 
 ## It can't all be perfect
-Due to KeyboxHub's ratelimiting, you can only make about 3 requests every 15 minutes.
+Due to KeyboxHub's ratelimiting, you can only make about 2 requests every 1 hour.
 They have stated in r/Magisk that they started out with 300x on release, and then another 500 later.
-For 1 person to scrape ALL of the data and collect the entire server of ALL of its keyboxes, it would take around 70 hours.
+For 1 person to scrape ALL of the data and collect the entire server of ALL of its keyboxes, it would take around 400 hours.
+
+[u/haZ3RRRR](https://www.reddit.com/user/haZ3RRR/) on reddit made a fork of the og script adding support for ip rotation with routers with OpenWrt.
+You can use this one alternatively by running ```powershell
+irm "https://raw.githubusercontent.com/shall0e/KeyBoxer/refs/heads/main/KeyboxerWRT.ps1" | iex
+```
 
 So, if you want 800 of your own free, and most important, PERSONAL keyboxes for your android device. KeyBoxer is right for you.
