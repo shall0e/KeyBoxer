@@ -21,7 +21,8 @@ They have stated in r/Magisk that they started out with 300x on release, and the
 For 1 person to scrape ALL of the data and collect the entire server of ALL of its keyboxes, it would take around 400 hours.
 
 [u/haZ3RRRR](https://www.reddit.com/user/haZ3RRR/) on reddit made a fork of the og script adding support for ip rotation with routers with OpenWrt.
-You can use this one alternatively by running ```powershell
+You can use this one alternatively by running 
+```powershell
 irm "https://raw.githubusercontent.com/shall0e/KeyBoxer/refs/heads/main/KeyboxerWRT.ps1" | iex
 ```
 
